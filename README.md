@@ -23,7 +23,7 @@ Framework:VS CODE,Flask
 Implementation: 
 The frontend of the code is designed using HTML,CSS and javascript and backend is done using python.
 
-Screenshots:![image](https://github.com/user-attachments/assets/fc349bb5-8019-4b71-91bb-af9092042d5b)
+Screenshots:
 ![Screenshot 2025-02-01 175316](https://github.com/user-attachments/assets/aa7538f0-0657-452e-8bb7-4efbfa2a7866)
 
 
