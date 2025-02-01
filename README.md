@@ -19,29 +19,9 @@ Solution:Innogrant Scholarship Finder offers a centralized, user-friendly platfo
 Technical details:
 Languages: HTML,CSS,Javascript
 Framework:VS CODE,Flask
-## Features
 
-- **Easy Search**: Quickly search for scholarships by criteria such as academic level, field of study, location, and eligibility.
-- **Personalized Recommendations**: Get scholarship suggestions based on your specific interests, background, and qualifications.
-- **Save & Track**: Keep track of scholarships you're interested in, deadlines, and application statuses.
-- **Comprehensive Database**: Access a regularly updated list of national and international scholarships across various fields.
-- **Helpful Tips & Guides**: Find advice on how to write winning essays, prepare your application, and stay organized throughout the process.
+Implementation: 
+The frontend of the code is designed using HTML,CSS and javascript and backend is done using python.
 
-## How to Use
-
-1. **Create an Account**: Sign up to save your preferences and track your progress.
-2. **Fill in Your Profile**: Enter your academic details, interests, and background to help us personalize your scholarship search.
-3. **Search Scholarships**: Use our filters to browse through relevant scholarships.
-4. **Apply**: Once you've found a scholarship that fits, follow the link to the application page or use our guide to apply.
-
-## Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **API Integrations**: Scholarship API (for live updates)
-
-## Contributing
-
-We welcome contributions! If you h
+Screenshot:
 
